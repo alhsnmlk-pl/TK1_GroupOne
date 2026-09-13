@@ -112,7 +112,7 @@
                   <Color blue="ff" green="ff" red="ff" type="rgb"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/tk1_groupone/PBO I TEAM ONE.png"/>
+                  <Image iconType="3" name="/tk1_groupone/imgHamdan/PBO I TEAM ONE.png"/>
                 </Property>
               </Properties>
             </Component>
