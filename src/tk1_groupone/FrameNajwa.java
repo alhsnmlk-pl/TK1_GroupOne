@@ -40,7 +40,7 @@ public class FrameNajwa extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(6, 110, 88));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/tk1_groupone/TEAMONE.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/tk1_groupone/imgNajwa/TEAMONE.png"))); // NOI18N
 
         jLabel2.setBackground(new java.awt.Color(255, 255, 255));
         jLabel2.setFont(new java.awt.Font("Segoe UI", 0, 23)); // NOI18N
