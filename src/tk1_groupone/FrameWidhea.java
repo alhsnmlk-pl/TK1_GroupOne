@@ -41,7 +41,7 @@ public class FrameWidhea extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(6, 110, 88));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/tk1_groupone/TEAMONE.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/tk1_groupone/ImgWidhea/TEAMONE.png"))); // NOI18N
 
         jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/tk1_groupone/ImgWidhea/PBO I TEAM ONE.png"))); // NOI18N
 
